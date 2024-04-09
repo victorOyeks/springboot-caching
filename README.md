@@ -1,9 +1,6 @@
 # SpringBoot Tutorial
 ![Java Maven CI](https://github.com/jssaggu/springboot-tutorial/actions/workflows/maven.yml/badge.svg)
 
-## Videos Available here
-All the tutorial videos are available on Saggu.uk YouTube channel.
-
 
 ## Spring Profiles
 
